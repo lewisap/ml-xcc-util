@@ -1,4 +1,4 @@
-package com.marklogic.xcc.template;
+package com.marklogic.xccutil.template;
 
 import com.marklogic.xcc.Session;
 import com.marklogic.xcc.exceptions.RequestException;

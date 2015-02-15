@@ -1,4 +1,4 @@
-package com.marklogic.xcc.template;
+package com.marklogic.xccutil.template;
 
 import com.marklogic.xcc.AdhocQuery;
 import com.marklogic.xcc.Session;
